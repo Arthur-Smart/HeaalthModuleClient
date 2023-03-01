@@ -1,0 +1,48 @@
+.billing{
+    width:100%;
+    position: relative;
+}
+
+.amount-due{
+    width:95%;
+}
+
+.billing-wrapper{
+    width:95%;
+    background-color: #fff;
+}
+
+.status-btn{
+    background-color: #a4a9fc;
+}
+
+.create-invoice{
+    position: absolute;
+    width: 100%;
+        height: calc(100vh - 73px);
+        background-color: #1d2438da;
+}
+
+.invoice-wrapper{
+    width:70%;    
+}
+
+.invoice-n-close{
+    width:100%;
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+    background-color: #535ac8;
+}
+
+.invoice-fields{
+    width:100%;
+    background-color: #fff;
+}
+
+.fields-top , .fields-bottom{
+    width:100%;
+}
+
+.invoice-inputs{
+    width:40%;
+}

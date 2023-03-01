@@ -1,0 +1,32 @@
+.appointments{
+    width:100%;
+    position:relative;
+}
+
+.appointment-div{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:calc(100vh - 73px);
+    background-color: #fff;
+}
+
+.appointment-tabs{
+    width:95%;
+}
+
+.appointment-d-container {
+    width: 24%;
+    height: 15vh;
+    background-color: #1D2438;
+}
+
+.appointments-wrapper{
+    width: 95%;
+    background-color: #fff;
+}
+
+.state-btn{
+    width:95%;
+}

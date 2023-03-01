@@ -1,0 +1,91 @@
+.portal{
+    width:100%;
+    position: relative;
+}
+
+.education-panel-div{
+    position: absolute;
+    width:100%;
+    height:calc(100vh - 73px);
+    background-color: #1d2438da;
+}
+
+.education-wrapper{
+    width:50%;
+    background-color: #fff;
+}
+
+.education-wrapper textarea{
+    height: 20vh;
+    max-height: 20vh;
+    min-height: 20vh;
+}
+
+.events-div{
+    position: absolute;
+    width: 100%;
+    height: calc(100vh - 73px);
+    background-color: #1d2438da;
+}
+
+.events-wrapper{
+    width: 50%;
+    background-color: #fff;
+}
+
+.events-wrapper textarea {
+    height: 20vh;
+    max-height: 20vh;
+    min-height: 20vh;
+}
+
+.portal-d-container{
+    position: relative;
+    width: 30%;
+    height: 15vh;
+    background-color: #1D2438;
+}
+
+.notfication-count{
+    position: absolute;
+    top:-15px;
+    right:-15px;
+    width:40px;
+    height:40px;
+    border-radius:50%;
+
+    animation:blink 2s linear;    
+}
+
+@keyframes blink{
+    0%{
+        opacity:0%;
+    }
+    50%{
+        opacity:50%
+    }
+    100%{
+        opacity:100%;
+    }
+
+}
+
+.portal-m-container{
+    width:95%;
+}
+
+.portalWrapper{
+    width:95%;
+    background-color: #fff;
+}
+
+.notification-btn {
+    width: 250px;
+    padding: 7px 4px;
+    color: white;
+    background-color: #3e4396;
+}
+
+.notification-btn:hover {
+    background-color: #2a2d64;
+}

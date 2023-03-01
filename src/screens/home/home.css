@@ -1,0 +1,88 @@
+.home{
+    width:100%;
+    position: relative;
+}
+
+.section-header{
+    width:95%;
+}
+
+.add-p-btn{
+    width:250px;
+    padding:7px 4px;
+    color:white;
+    background-color: #3e4396;
+}
+
+.add-p-btn:hover{
+    background-color: #2a2d64;
+}
+
+.data-sub-container{
+    width:30%;
+    height:15vh;
+    background-color: #1D2438;
+}
+
+.revenue-section{
+    width: 95%;
+}
+
+.revenue-tab{
+    width:65%;
+    background-color: #1D2438;
+}
+
+.line-chart{
+    height:35vh;
+    width:100%;
+}
+
+.transactions-tab{
+    width:35%;
+    height:45vh;
+    overflow-y: scroll;
+    background-color: #141C2C;
+}
+
+.transaction{
+    background-color: #1D2438 !important;
+}
+
+.clinic-outpatient{
+    width:95%;
+}
+
+.clinics{
+    width:65%;
+    height:17vh;
+    background-color: #1D2438;
+}
+
+.clinic-tab{
+    width:200px;
+}
+
+.outpatient-inpatient{
+    width:35%;
+    height: 17vh;
+    background-color: #1D2438;
+}
+
+.out-in-btn{
+    padding: 7px 4px;
+    background-color: #3e4396;
+}
+
+.out-in-btn:hover {
+    background-color: #2a2d64;
+}
+
+.add-patient{
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:calc(100vh - 71px);
+    background-color: #ffffff;
+}

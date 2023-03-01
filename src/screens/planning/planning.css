@@ -1,0 +1,20 @@
+.planning{
+    width:100%;
+}
+
+.calendar-section{
+    width:100%;
+}
+
+.calendar-wrapper{
+    width:95%;
+}
+
+.calendar-sidebar{
+    width:20%;
+    background-color: #1D2438;
+}
+
+.calendar-bar{
+    width:80%;
+}

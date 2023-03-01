@@ -1,0 +1,55 @@
+.laboratory-report{
+    width:100%;
+}
+
+.main-wrapper{
+    position: relative;
+}
+
+.laboratory-wrapper{
+    width:95%;
+}
+
+.create-new-l-report{
+    position: absolute;
+    width: 100%;
+    height: calc(100vh - 127px);
+    background-color: #1d2438da;
+}
+
+.create-bar{
+    width: 70%;
+        border-top-right-radius: 7px;
+        border-top-left-radius: 7px;
+        background-color: #535ac8;
+}
+
+.create-body{
+    width:70%;
+    background-color: #fff;
+}
+
+.lab-input{
+    width:50%;
+}
+
+.create-body textarea {
+    height: 20vh;
+    max-height: 20vh;
+    min-height: 20vh;
+}
+
+.lab-btn {
+    width: 190px;
+    padding: 7px 4px;
+    color: white;
+    background-color: #3e4396;
+}
+
+.lab-btn:hover {
+    background-color: #2a2d64;
+}
+
+.results-wrapper{
+    width:95%;
+}

@@ -1,0 +1,51 @@
+.patient-info{
+    width:100%;
+}
+
+.close-patient-info{
+    font-size: 21px;
+    position: fixed;
+    margin-top: 17px;
+    right:31px;
+}
+
+.info-wrapper{
+    width:95%;
+}
+
+.patient-input{
+    width:50%;
+}
+
+.patient-input-2{
+    width:40%;
+}
+
+.insurance{
+    width:100%;
+}
+
+.medical-issue{
+    width:100%;
+}
+
+.medical-issue textarea{
+    width:100%;
+    max-height:15vh;
+    min-height:15vh;
+}
+
+.test-issue{
+    width:100%;
+}
+
+.test-issue textarea {
+    width: 100%;
+    max-height: 15vh;
+    min-height: 15vh;
+}
+
+.publish-btn{
+    width:200px;
+    color:white;
+}

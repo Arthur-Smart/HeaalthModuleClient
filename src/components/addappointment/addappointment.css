@@ -1,0 +1,29 @@
+.add-appointment{
+    width:100%;
+}
+
+.close-add-p-appointment{
+    font-size: 21px;
+        position: fixed;
+        margin-top: 5px;
+        right: 31px;
+}
+
+.add-p-inputs{
+    width:95%;
+}
+
+.add-patient-input {
+    width: 45%;
+}
+
+.add-patient-2-input{
+    width:50%;
+}
+
+.or{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    background-color: #535ac8;
+}

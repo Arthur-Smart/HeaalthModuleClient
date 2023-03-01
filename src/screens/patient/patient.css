@@ -1,0 +1,29 @@
+.patient{
+    width:100%;
+}
+
+.single-p-info{
+    position: relative;
+    width:100%;
+    background-color: #fff;
+}
+
+.print{
+    position: absolute;
+    top:10px;
+    right:10px;
+}
+
+.info-con{
+    width:95%;
+    border-bottom: 1px solid #c2c2c2;
+}
+
+.info-title{
+    width:fit-content;
+    background-color: #535ac8;
+}
+
+.info-icons{
+    width:95%;
+}
